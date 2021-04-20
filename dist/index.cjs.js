@@ -2206,15 +2206,19 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "English",
-                href: "https://t.me/milkswap_bsc",
+                label: "English Chat",
+                href: "https://t.me/FruitDEX",
+            },
+            {
+                label: "Announcement",
+                href: "https://t.me/FruitDEXAnnouncements",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/milkswap_bsc",
+        href: "https://twitter.com/fruitdex",
     },
 ];
 var MENU_HEIGHT = 64;
